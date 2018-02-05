@@ -1,0 +1,78 @@
+a
+{
+	text-decoration: none;
+	color:white;
+}
+
+.btn
+{
+	position:absolute;
+	background:blue;
+	border-radius: 5px;
+	text-align:center;
+	height:30px;
+	width:50px ;
+}
+
+.btn1
+{
+	position:absolute;
+	left:80px ;
+	background:blue;
+	border-radius: 5px;
+	text-align:center;
+	height:30px;
+	width:50px ;
+}
+
+.btn2
+{
+	position:absolute;
+	top:50px;
+	background:blue;
+	border-radius: 5px;
+	text-align:center;
+	height:30px;
+	width:60px ;
+}
+
+.btn3
+{
+	position:absolute;
+	top:50px;
+	left:80px;
+	background:blue;
+	border-radius: 5px;
+	text-align:center;
+	height:30px;
+	width:60px ;
+}
+
+.image
+{
+	position:absolute;
+	top:130px;
+	left:400px ;
+	width:700px ;
+	height: 600px;
+}
+
+.image1
+{
+	position:absolute;
+	top:100px;
+	left:200px ;
+	width:700px ;
+	height: 600px;
+}
+
+.text
+{
+	position:absolute;
+	top:130px;
+	left:730px ;
+	width: 400px;
+	text-align: justify;
+	font-size: 17px;
+	font-weight: bold;
+}
